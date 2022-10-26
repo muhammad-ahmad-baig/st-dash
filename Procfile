@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run st_dash_101.py
